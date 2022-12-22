@@ -1,0 +1,14 @@
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\bin\Debug\netstandard2.0\Tabuada.deps.json
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\bin\Debug\netstandard2.0\Tabuada.dll
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\bin\Debug\netstandard2.0\ref\Tabuada.dll
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\bin\Debug\netstandard2.0\Tabuada.pdb
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\obj\Debug\netstandard2.0\Tabuada.csproj.AssemblyReference.cache
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\obj\Debug\netstandard2.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\obj\Debug\netstandard2.0\Tabuada.AssemblyInfo.cs
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\obj\Debug\netstandard2.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\obj\Debug\netstandard2.0\Tabuada.dll
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\obj\Debug\netstandard2.0\ref\Tabuada.dll
+C:\Users\Yara\source\repos\Tabuada\Tabuada\Tabuada\obj\Debug\netstandard2.0\Tabuada.pdb
